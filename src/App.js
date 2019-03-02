@@ -12,7 +12,7 @@ class App extends Component {
       <Navbar fluid>
         <Nav>
           <NavItem>
-            <Link to="/">Home</Link>
+            <Link to="/">HOME</Link>
           </NavItem>
           <NavItem>
             <Link to="/about">About</Link>
